@@ -1,7 +1,5 @@
 # Day 3: Conditions and Operator
 
-**What is Python?**
-
 | Operator | Example  | Meaning          |
 | -------- | -------- | ---------------- |
 | `==`     | `5 == 5` | Equal            |
