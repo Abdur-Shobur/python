@@ -24,3 +24,11 @@ Multi line comment
 # input from user
 userInput = input("Enter Your Name...")
 print("hello "+userInput)
+
+
+# variable use
+fruits = ["apple", "banana", "cherry"]
+x, y, z = fruits
+print(x)
+print(y)
+print(z)
